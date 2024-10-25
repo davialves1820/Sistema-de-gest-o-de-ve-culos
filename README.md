@@ -24,9 +24,12 @@ Este projeto é um sistema de gestão de veículos desenvolvido em C++. Ele perm
 
 ## Compilação e Execução
 
-Para compilar o projeto, use o `Makefile`. No terminal, execute: 
+Para compilar o projeto no terminal execute: 
 
 ```bash
 make
-
+```
+Para executar o programa no terminal execute:
+```bash
 ./build/my_program
+```
